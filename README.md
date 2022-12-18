@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnePieceLwc
+- 👋 Hi, I am @OnePieceLwc
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning programme
 - 💞️ I’m looking to collaborate on programme
