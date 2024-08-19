@@ -13,12 +13,14 @@
 [![CSDN](https://img.shields.io/badge/CSDN-%231DA1F2.svg?logo=C&logoColor=white)](https://blog.csdn.net/lwcwam)
 
 ## GitHub Stats 📊
-
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=OnePieceLwc&theme=github-dark-dimmed" />
 
-<img alt="Zezhong Li's github stats" width="98.3%" align=center src="https://github-readme-stats.vercel.app/api?username=OnePieceLwc&count_private=true&show_icons=true&theme=synthwave" />
+<img alt="Zezhong Li's github stats" width="100%" align=center src="https://github-readme-stats.vercel.app/api?username=OnePieceLwc&count_private=true&show_icons=true&theme=synthwave" />
 
-<img alt="Top Langs" width="98.3%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnePieceLwc&layout=compact&theme=highcontrast" />
+<img alt="Top Langs" width="100%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnePieceLwc&layout=compact&theme=highcontrast" />
+
+
+
 
 ## GitHub Trophies 🏆
 
