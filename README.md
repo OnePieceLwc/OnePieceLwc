@@ -8,12 +8,9 @@
 ## Contact 🌐
 
 [![微信](https://img.shields.io/badge/微信-%231AAD19?logo=wechat&logoColor=white)](https://u.wechat.com/MBm9tq-EwX0x7j3ziJ-jX60?s=1)
-
-[![CSDN](https://img.shields.io/badge/CSDN-#FC5531.svg?logo=c&logoColor=white)](https://blog.csdn.net/lwcwam)
-
 [![稀土掘金](https://img.shields.io/badge/稀土掘金-%230A66C2.svg?logo=BAIDU&logoColor=white)](https://juejin.cn/user/1269294586664749)
-
 [![QQ](https://img.shields.io/badge/QQ-%2300B6EA?logo=tencentqq&logoColor=white)](1843200236)
+[![CSDN](https://img.shields.io/badge/CSDN-%231DA1F2.svg?logo=C&logoColor=white)](https://blog.csdn.net/lwcwam)
 
 ## GitHub Stats 📊
 
