@@ -1,7 +1,6 @@
 ### Hi there, I'm OnePieceLwc 👋
 
-- 👋 Hi, I am OnePieceLwc
-- 👀 I’m interested in sleep
+- 👀 I’m interested in python
 - 🌱 I’m currently learning programme
 - 💞️ I’m looking to collaborate on programme
 - 📫 How to reach me 202102810825@email.sxu.edu.cn
