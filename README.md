@@ -31,8 +31,7 @@
 <img alt="GitHub Trophies" width="98.3%" align=center src="https://github-profile-trophy.vercel.app/?username=OnePieceLwc&theme=nord&margin-w=5&column=6&row=1&no-frame=true&no-bg=false" />
 
 ## Contribution Graph 👀
-
-<img alt="github Profile Summary Cards" width="98.3%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OnePieceLwc&theme=github-dark-dimmed" />
+<img alt="GitHub Activity Graph" width="98.3%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=OnePieceLwc&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" />
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
