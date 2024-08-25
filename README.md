@@ -30,6 +30,9 @@
 
 <img alt="GitHub Trophies" width="98.3%" align=center src="https://github-profile-trophy.vercel.app/?username=OnePieceLwc&theme=nord&margin-w=5&column=6&row=1&no-frame=true&no-bg=false" />
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
