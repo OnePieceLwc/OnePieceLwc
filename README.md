@@ -32,7 +32,7 @@
 
 ## Contribution Graph 👀
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OnePieceLwc&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" width="94%" />
+<img alt="github Profile Summary Cards" width="98.3%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OnePieceLwc&theme=github-dark-dimmed" />
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
