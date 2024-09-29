@@ -3,7 +3,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning programme
 - 💞️ I’m looking to collaborate on programme
-- 📫 How to reach me 202102810825@email.sxu.edu.cn
+- 📫 How to reach me xiazhi20040318@163.com
 
 ## Contact 🌐
 
