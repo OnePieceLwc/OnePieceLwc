@@ -14,8 +14,11 @@
 
 ## GitHub Stats 📊
 
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=OnePieceLwc&theme=github-dark-blue&locale=zh_Hans" />
-
+  <p>
+    <a href="https://github.com/OnePieceLwc">
+      <img title="🔥" alt="OnePieceLwc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OnePieceLwc&theme=github-dark-blue&locale=zh_Hans"/>
+    </a>
+  </p>
 
 <table>
   <tr>
