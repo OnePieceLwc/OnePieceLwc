@@ -13,6 +13,7 @@
 [![CSDN](https://img.shields.io/badge/CSDN-%23FC5531.svg?logo=C&logoColor=white)](https://blog.csdn.net/lwcwam)
 
 ## GitHub Stats 📊
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=OnePieceLwc&theme=github-dark-blue&locale=zh_Hans" />
 
   <p>
     <a href="https://github.com/OnePieceLwc">
